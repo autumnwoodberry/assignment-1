@@ -6,7 +6,7 @@ Web Programming Assignment #1
 
 Due Date: See the due date for assignment #1 in Canvas
 
-For this assignment you are to take this html page (view the html here). and its style sheet and convert it to a cosc2328 home page in a cosc2328 folder on Reclaim (create). The file must be named index.html and it must reside in www/cosc2328 off your home directory by the due date shown for this assignment in Canvas.
+For this assignment you are to take this html page (view the html [here](www.google.com)). and its style sheet and convert it to a cosc2328 home page in a cosc2328 folder on Reclaim (create). The file must be named index.html and it must reside in www/cosc2328 off your home directory by the due date shown for this assignment in Canvas.
 
 ## For your cosc2328 home page make the following changes to the page's html and style sheet as required:
 
